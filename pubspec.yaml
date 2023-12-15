@@ -65,7 +65,7 @@ dependencies:
         path: flutter_keyboard_visibility
         ref: 8c28373
   device_info_plus: ^9.1.0
-  super_clipboard: ^0.7.3
+  super_clipboard: 0.8.0-dev.3
 
 dev_dependencies:
   flutter_lints: ^3.0.1
