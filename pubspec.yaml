@@ -59,11 +59,12 @@ dependencies:
 
   # Plugins
   url_launcher: ^6.1.14
+  dependency_overrides:
   flutter_keyboard_visibility:
-      git:
-        url: https://github.com/MisterJimson/flutter_keyboard_visibility.git
-        path: flutter_keyboard_visibility
-        ref: 8c28373
+    git:
+      url: https://github.com/MisterJimson/flutter_keyboard_visibility.git
+      ref: b5e7b0de4fa9eb6a6c076f1120e5f92a77b7679d # https://github.com/MisterJimson/flutter_keyboard_visibility/commit/b5e7b0de4fa9eb6a6c076f1120e5f92a77b7679d
+      path: flutter_keyboard_visibility
   device_info_plus: ^9.1.0
   super_clipboard: ^0.7.3
 
