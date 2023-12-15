@@ -59,7 +59,6 @@ dependencies:
 
   # Plugins
   url_launcher: ^6.1.14
-  dependency_overrides:
   flutter_keyboard_visibility:
     git:
       url: https://github.com/MisterJimson/flutter_keyboard_visibility.git
